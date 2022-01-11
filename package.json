@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "mongoose": "^6.1.4",
+    "pg": "^8.7.1",
+    "pg-hstore": "^2.3.4",
+    "sequelize": "^7.0.0-alpha.2"
+  },
+  "scripts": {
+    "smoke": "jest --testPathPattern"
+  }
+}
